@@ -1,0 +1,8 @@
+# No external dependencies required
+
+# Uses Python standard libraries: sqlite3, tkinter, datetime
+
+Python 3.x required
+Tkinter should be installed
+
+# No pip packages required. Uses built-in Python modules.
